@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Helper\Env;
+namespace Nyxio\Helper\Env;
 
-use function Nyx\Helper\Text\parseFromString;
+use function Nyxio\Helper\Text\parseFromString;
 
 function env(string $name, mixed $default = null): string|int|float|bool|null
 {

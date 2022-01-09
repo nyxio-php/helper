@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Helper\Text;
+namespace Nyxio\Helper\Text;
 
 function parseFromString(string $value): string|int|float|bool|null
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Helper\Reflection;
+namespace Nyxio\Helper\Reflection;
 
 function getMethodParametersNames(\ReflectionMethod $method): array
 {

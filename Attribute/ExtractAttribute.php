@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Helper\Attribute;
+namespace Nyxio\Helper\Attribute;
 
 class ExtractAttribute
 {

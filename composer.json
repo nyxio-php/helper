@@ -1,11 +1,11 @@
 {
-    "name": "nyx/helper",
-    "description": "NYX Helper component",
+    "name": "nyxio/helper",
+    "description": "nyxio helper component",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nyx\\Helper\\": ""
+            "Nyxio\\Helper\\": ""
         },
         "files": [
             "Directory/Directory.php",

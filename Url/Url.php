@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Helper\Url;
+namespace Nyxio\Helper\Url;
 
 function normalizeUri(string $uri): string
 {

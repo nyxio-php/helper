@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Helper\Directory;
+namespace Nyxio\Helper\Directory;
 
 function join(...$paths): string
 {

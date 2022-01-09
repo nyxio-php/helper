@@ -6,7 +6,14 @@
     "autoload": {
         "psr-4": {
             "Nyx\\Helper\\": ""
-        }
+        },
+        "files": [
+            "Directory/Directory.php",
+            "Url/Url.php",
+            "Text/Text.php",
+            "Env/Env.php",
+            "Reflection/Reflection.php"
+        ]
     },
     "authors": [
         {
